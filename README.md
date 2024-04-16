@@ -19,6 +19,7 @@ Visit my LinkedIn profile and Portfolio:
 [![python Visualization Projects](https://img.shields.io/badge/-python%20Visualization%20Projects-000?&logo=python)](https://github.com/pquintanagit/python-visualization-projects)
 [![JavaScript Basic Projects](https://img.shields.io/badge/-JavaScript%20Basic%20Projects-000?&logo=JavaScript)](https://github.com/pquintanagit/javascript-Basic-Projects)
 [![JavaScript NodeJS Projects](https://img.shields.io/badge/-JavaScript%20NodeJS%20Projects-000?&logo=JavaScript)](https://github.com/pquintanagit/javascript-nodeJS-Projects)
+[![JavaScript React Projects](https://img.shields.io/badge/-JavaScript%20React%20Projects-000?&logo=React)](https://github.com/pquintanagit/javascript-react-Projects)
 [![Adroid Kotlin Projects](https://img.shields.io/badge/-Android%20Kotlin%20Projects-000?&logo=android)](https://github.com/pquintanagit/AndroidStudioProjects)
 [![iOS Swift Projects](https://img.shields.io/badge/-iOS%20Swift%20Projects-000?&logo=swift)](https://github.com/pquintanagit/SwiftiOSProjects)
 
