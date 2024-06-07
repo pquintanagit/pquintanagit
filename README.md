@@ -7,6 +7,7 @@ Visit my LinkedIn profile and Portfolio:
 
 [![](https://img.shields.io/badge/-Linkedin-000?&logo=Linkedin)](https://www.linkedin.com/in/pablo-quintana-bernal-ba38807a/)
 [![](https://img.shields.io/badge/Portfolio-https://pabloquintana.info-000)](https://pabloquintana.info)
+[![](https://img.shields.io/badge/Roadmap-https://roadmap.sh/u/pquintana-000)](https://roadmap.sh/u/pquintana)
 
 ### My Featured Repos
 [![doNet Basic Projects](https://img.shields.io/badge/-doNet%20Basic%20Projects-000?&logo=.net)](https://github.com/pquintanagit/dotNet-basic-project)
